@@ -1,0 +1,32 @@
+{
+  "name": "Diony",
+  "version": "0.0.0",
+  "description": "I'm Diony Concepcion, a Dad, front-end developer and ambitious entrepreneur who loves building cool interfaces & experiences. Ready to embrace Web 3.0 & NFT's.",
+  "repository": {
+    "type": "git",
+    "url": "https://dionyc.github.io"
+  },
+  "homepage": "https://dionyc.github.io",
+  "main": "gulpfile.js",
+  "scripts": {
+    "start": "gulp serve --watch",
+    "build": "gulp build"
+  },
+  "author": "Diony C.",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.24.0",
+    "@babel/eslint-parser": "^7.24.0",
+    "@babel/preset-env": "^7.24.0",
+    "browser-sync": "^3.0.2",
+    "eslint": "^8.57.0",
+    "gulp": "^5.0.0",
+    "gulp-autoprefixer": "^8.0.0",
+    "gulp-clean-css": "^4.3.0",
+    "gulp-eslint-new": "^2.0.0",
+    "gulp-imagemin": "^9.0.0",
+    "gulp-sass": "^5.1.0",
+    "gulp-terser": "^2.1.0",
+    "sass": "^1.77.0"
+  }
+}
